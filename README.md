@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @katsuriyaki
-- 👀 I’m interested in Machine Learning
+- 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning Basic Things
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a Katsu
